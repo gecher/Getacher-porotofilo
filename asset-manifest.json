@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Getacher-porotofilo/static/css/main.44192a03.css",
-    "main.js": "/Getacher-porotofilo/static/js/main.e3204952.js",
+    "main.js": "/Getacher-porotofilo/static/js/main.98b8e51e.js",
     "static/js/453.ace21015.chunk.js": "/Getacher-porotofilo/static/js/453.ace21015.chunk.js",
     "static/media/GetacherAshebirResume_Latest.pdf": "/Getacher-porotofilo/static/media/GetacherAshebirResume_Latest.3ba33d68f109d372980a.pdf",
     "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "/Getacher-porotofilo/static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
@@ -13,11 +13,11 @@
     "static/media/gotosite.webp": "/Getacher-porotofilo/static/media/gotosite.dc2459843a8d51a90e5d.webp",
     "index.html": "/Getacher-porotofilo/index.html",
     "main.44192a03.css.map": "/Getacher-porotofilo/static/css/main.44192a03.css.map",
-    "main.e3204952.js.map": "/Getacher-porotofilo/static/js/main.e3204952.js.map",
+    "main.98b8e51e.js.map": "/Getacher-porotofilo/static/js/main.98b8e51e.js.map",
     "453.ace21015.chunk.js.map": "/Getacher-porotofilo/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44192a03.css",
-    "static/js/main.e3204952.js"
+    "static/js/main.98b8e51e.js"
   ]
 }
