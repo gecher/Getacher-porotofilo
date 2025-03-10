@@ -17,7 +17,7 @@ export const projects = [
       },
     ],
     img: "https://i.imgur.com/HpyVZZO.png",
-    link: "https://eprocurementadmin.ethiopianairlines.com",
+    link: "https://civilaviation-eserviceclient-staging.azurewebsites.net/",
   },
   {
     title: "E-Procurement For Ethiopian Airlines",
